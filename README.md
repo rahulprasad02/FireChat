@@ -1,3 +1,7 @@
+# Project Description
+
+"FireChat" is a real-time chat application built using React and Firebase. It provides a seamless chatting experience for users, allowing them to communicate in both a common chat area and specific rooms. The application authenticates users using Firebase Authentication, with Google Sign-In implemented for convenient access. Messages and user information are stored in Firestore, enabling real-time message updates and retrieval of previous conversations within each room. The "FireChat" project empowers users to engage in dynamic conversations, explore different rooms, and effortlessly sign in or create new rooms.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
